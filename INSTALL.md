@@ -72,6 +72,6 @@
 
 ---
 
-# README
+# INSTALL
 
 ## Babis Poteridis and the Magic Notebook Searching
